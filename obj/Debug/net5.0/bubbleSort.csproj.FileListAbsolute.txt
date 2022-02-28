@@ -1,0 +1,16 @@
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.exe
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.deps.json
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.runtimeconfig.json
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.runtimeconfig.dev.json
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.dll
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\ref\bubbleSort.dll
+C:\Users\k.patel61\Desktop\bubbleSort\bin\Debug\net5.0\bubbleSort.pdb
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.csproj.AssemblyReference.cache
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.AssemblyInfoInputs.cache
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.AssemblyInfo.cs
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.dll
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\ref\bubbleSort.dll
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.pdb
+C:\Users\k.patel61\Desktop\bubbleSort\obj\Debug\net5.0\bubbleSort.genruntimeconfig.cache
