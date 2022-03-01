@@ -21,8 +21,8 @@ namespace bubbleSort
         }
 
         static int bubbleSortStr(String[] anArray){
-            for(int i=0; i < anArray.Length-i-1; i++){
-                for (int x=0; x<anArray.Length-1; x++){
+            for(int i=0; i < anArray.Length-1; i++){
+                for (int x=0; x<anArray.Length-i-1; x++){
                     if (anArray[x].CompareTo(anArray[x + 1]) > 0){
                         string t = anArray[x];
                         anArray[x] = anArray[x+1];
